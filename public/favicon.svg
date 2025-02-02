@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cloud base -->
+  <path d="M24 22c3.314 0 6-2.686 6-6s-2.686-6-6-6c-.34 0-.672.028-1 .083C22.403 7.167 19.448 5 16 5c-4.418 0-8 3.582-8 8 0 .368.025.73.074 1.085C5.717 14.393 4 16.284 4 18.5 4 21.537 6.463 24 9.5 24H24z" fill="#3B82F6"/>
+  <!-- Optimization arrows -->
+  <path d="M16 12l3 3-3 3M13 15h6" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
